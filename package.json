@@ -1,0 +1,9 @@
+{
+  "name": "zudbar-privacy-policy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static privacy policy page for the ZudBar app",
+  "scripts": {
+    "start": "npx -y serve -s . -l ${PORT:-3000}"
+  }
+}
